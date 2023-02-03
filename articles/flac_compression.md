@@ -1,6 +1,6 @@
 ---
 title: How can we save space on audio files without losing quality?
-description: Easy guide for compressing audio files online while preserving the quality. Learn how FLAC works and the difference between lossy and lossless compression. Provide insights into some of the methods through which lossless compression is achieved.
+description: Easy guide for compressing audio files online while preserving the quality. Learn how FLAC works and the difference between lossy and lossless compression. Provides insights into some of the methods through which lossless compression is achieved.
 image: audio_equalizer.jpg
 image_alt: Audio equalizer by Hendrik B (Pexels)
 date_added: 2023-02-03
@@ -34,8 +34,8 @@ Lossless compression works by removing redundant data that does not affect the a
 One of the fastest, most efficient ways to convert FLAC files is to use MConverter. MConverter provides an online solution for audio conversion. This way, you do not have to rely on the power of your personal laptop or phone.
 
 ## How Can I Convert Files to FLAC Using MConverter?
-1. Upload your audio file (aac, ac3, m4a, mid, mp3, opus, wav, wma).
-2. Choose "flac".
+1. Upload your audio file (aac, ac3, m4a, [mid](https://mconverter.eu/convert/mid/flac/), mp3, opus, [wav](https://mconverter.eu/convert/wav/flac/), or [wma](https://mconverter.eu/convert/wma/flac/)).
+2. Choose "[flac](https://mconverter.eu/convert/to/flac/)".
 3. Wait for your converted file to download.
 4. Enjoy saving *space* and *audio quality*.
 
