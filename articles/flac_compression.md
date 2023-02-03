@@ -1,5 +1,5 @@
 ---
-title: How can we save space on audio files without losing quality?
+title: How to save space on audio files without losing quality
 description: Easy guide for compressing audio files online while preserving the quality. Learn how FLAC works and the difference between lossy and lossless compression. Provides insights into some of the methods through which lossless compression is achieved.
 image: audio_equalizer.jpg
 image_alt: Audio equalizer by Hendrik B (Pexels)
