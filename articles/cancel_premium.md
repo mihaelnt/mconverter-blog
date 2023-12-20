@@ -4,7 +4,7 @@ description: Simple guide for unsubscribing from MConverter Plus and Pro. You'll
 image: mconverter_premium.webp
 image_alt: MConverter Premium badge
 date_added: 2022-07-04
-date_updated: 2023-07-04
+date_updated: 2023-12-20
 ---
 
 At MConverter, we have made it easy for you to cancel your subscription. We do **not** make it purposefully difficult by having you call a phone number and wait, **nor** do we charge cancellation fees.
@@ -21,7 +21,7 @@ To stop your subscription from auto-renewing (i.e. to cancel it), follow these s
     - After cancelling, your paid plan benefits will remain active for the rest of the current billing period.
     - We'd appreciate it if you let us know why you're cancelling, though you are not required to specify a reason when unsubscribing.
 
-We are sorry to see you go. If you have any questions, we're here to help. Contact MConverter Support from the main navigation menu.
+We are sorry to see you go. If you have any questions, we're here to help: [contact us](#legal).
 
 ## I can't see any active plans, but I'm still getting charged. Why?
 
