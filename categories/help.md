@@ -2,4 +2,4 @@
 heading: Help
 ---
 
-This is the category description for help articles.
+Something doesn't work? Our support articles are here to help.
