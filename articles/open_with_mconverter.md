@@ -5,6 +5,9 @@ image: open_with_mconverter.webp
 image_alt: Right-click context menu on Windows 10, showing MConverter as an option
 date_added: 2023-06-01
 date_updated: 2023-06-01
+categories:
+  - tips-and-tricks
+  - technical
 ---
 
 You may have noticed a new app show up in the **“Open with…”** context menu of your File Explorer: MConverter. That's right, you can now queue files for converting without having to switch away from your file manager.

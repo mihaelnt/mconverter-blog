@@ -5,6 +5,8 @@ image: mconverter_premium.webp
 image_alt: MConverter Premium badge
 date_added: 2022-07-04
 date_updated: 2023-12-20
+categories:
+  - help
 ---
 
 At MConverter, we have made it easy for you to cancel your subscription. We do **not** make it purposefully difficult by having you call a phone number and wait, **nor** do we charge cancellation fees.
