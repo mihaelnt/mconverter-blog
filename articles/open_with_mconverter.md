@@ -6,7 +6,7 @@ image_alt: Right-click context menu on Windows 10, showing MConverter as an opti
 date_added: 2023-06-01
 date_updated: 2023-06-01
 categories:
-  - tips-and-tricks
+  - tips_and_tricks
   - technical
 ---
 

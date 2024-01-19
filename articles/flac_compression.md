@@ -6,8 +6,8 @@ image_alt: Audio equalizer by Hendrik B (Pexels)
 date_added: 2023-02-03
 date_updated: 2023-02-03
 categories:
-  - audio-conversion
-  - tips-and-tricks
+  - audio_conversion
+  - tips_and_tricks
 ---
 
 ## Why Do We Need to Compress Audio Files Using FLAC?
