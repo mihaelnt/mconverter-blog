@@ -16,7 +16,7 @@ Due to Apple's changes, MConverter will no longer open as a web app that appears
 
 ## Will I lose functionality or any data?
 
-We are making everything possible to keep all existing functionality on iOS. Unfortunately, Apple's last-moment and [mostly undocumented](https://www.theregister.com/2024/02/16/apple_web_apps/) changes offer no replacements for some features. **The following functionality will be impacted**:
+We are doing everything possible to keep all existing functionality on iOS. Unfortunately, Apple's last-moment and [mostly undocumented](https://www.theregister.com/2024/02/16/apple_web_apps/) changes offer no replacements for some features. **The following functionality will be impacted**:
 
 * Push notifications
 * Local MConverter settings
@@ -41,7 +41,7 @@ These protections cause unintended consequences and may negatively impact your e
 * your accessibility preferences for reduced motion;
 * your recently used file formats, if not logged in.
 
-Moreover, Apple's restrictions mean that you will need to **log into your MConverter account again every time** when more than 7 days have passed since your last usage.
+Moreover, Apple's restrictions mean that you will need to **log into your MConverter account again whenever more than 7 days have passed** since your last usage.
 
 As you may have noticed from before, web apps added to home screen do not have such restrictions. Your settings would have been retained indefinitely.
 
@@ -61,7 +61,7 @@ The [Digital Markets Act](https://commission.europa.eu/strategy-and-policy/prior
 
 Unfortunately, Apple's way of complying with the new regulations can be seen as hostile and anti-consumer. The DMA does not force Apple to break home screen web apps. The decision to remove them entirely, rather than adapt, looks like a [deliberate choice to reduce functionality](https://open-web-advocacy.org/blog/apple-on-course-to-break-all-web-apps-in-eu-within-20-days/) and, ironically, *limit* user choice.
 
-Apple cites security and privacy concerns as the reason for removing home screen web apps on iOS. However, other operating systems, *including macOS*, already have installable web apps and third-party browser engines support. Therefore, the excuse for iOS seems questionable.
+Apple cites security and privacy concerns as the reason for removing home screen web apps on iOS. However, other operating systems, *including macOS*, already have installable web apps and third-party browser engine support. Therefore, the excuse for iOS seems questionable.
 
 ## I don't like these changes. What can I do?
 
