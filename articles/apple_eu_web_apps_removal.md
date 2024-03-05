@@ -1,13 +1,19 @@
 ---
 title: Important information for iOS users in the EU
-description: Apple is breaking installable web apps in iOS 17.4. Expect local settings data loss. See what will change and why.
+description: Apple was about to break installable web apps in iOS 17.4, leading to local data loss. See what would've changed and why.
 image: web_app_open_in_browser.webp
 image_alt: Screenshot of iPhone showing that “MConverter” will open in your default browser from now on
 date_added: 2024-02-23
-date_updated: 2024-02-23
+date_updated: 2024-03-05
 categories:
   - help
   - technical
+---
+
+*Thanks to a potential [formal investigation](https://www.ft.com/content/d2f7328c-5851-4f16-8f8d-93f0098b6adc) by the European Commission and an [open letter](https://letter.open-web-advocacy.org/) to Tim Cook, Apple has reversed its decision to disable installable web apps in the EU.*
+
+*Our original article follows.*
+
 ---
 
 In the coming weeks, with the release of iOS 17.4, you may see the following message if you have MConverter installed (added to your home screen): **“MConverter” will open in your default browser from now on.**
