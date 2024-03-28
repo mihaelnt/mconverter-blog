@@ -1,7 +1,7 @@
 ---
 title: How to Convert AVI to MP4? 5 Tips and Tricks
 description: What are the 5 essential tips and tricks for you when you need to convert an AVI format file into a MP4 format? Read more here!
-image: digital-files.jpg
+image: digital-files.webp
 image_alt: Easily convert files online
 date_added: 2024-04-09
 date_updated: 2024-04-09

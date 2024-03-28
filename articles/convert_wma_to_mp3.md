@@ -1,7 +1,7 @@
 ---
 title: How to Convert WMA to MP3? All About Audio Files Conversion
 description: What are WMA and MP3 file formats? How to do an audio file conversion? Read more in this article!
-image: convert-files.jpg
+image: convert-files.webp
 image_alt: convert wma to mp3
 date_added: 2024-04-16
 date_updated: 2024-04-16

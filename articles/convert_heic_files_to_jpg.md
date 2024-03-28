@@ -1,7 +1,7 @@
 ---
 title: How to Convert HEIC Files to JPG? 3 easy steps
 description: Have you ever wondered how to convert HEIC files to JPG? In this article you will find 3 easy steps to guide you through the process!
-image: online-converter.jpg
+image: online-converter.webp
 image_alt: online heic to jpg converter
 date_added: 2024-04-02
 date_updated: 2024-04-02
