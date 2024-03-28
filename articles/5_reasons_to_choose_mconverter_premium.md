@@ -95,4 +95,3 @@ It includes formats such as, .azw, .fb2, .epub, and more.
 It includes formats like .mcpack, .mctemplate, and more.
 
 So, hopefully, the five reasons mentioned above were enough to convince you of the veritable benefits of opting for the premium version of MConverter. Enjoy converting your files with MConverter!
-
