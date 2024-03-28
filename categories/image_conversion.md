@@ -2,4 +2,4 @@
 heading: Image Conversion
 ---
 
-This is the category description for image conversions.
+Helpful articles related to photo conversions.
