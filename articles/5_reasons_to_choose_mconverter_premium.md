@@ -48,7 +48,7 @@ Likewise, the Pro version of MConverter is equipped with amazing features, such 
 
 ### Unlimited conversions per day
 
-If you are a graphic designer, video editor, DJ or any other similar professional who has to constantly convert files from one format to another, then it is obvious that you need an [online file converter] (https://mconverter.eu/) that ensures unlimited conversions. The free version of MConverter only allows 10 conversions per day. But, if that sounds too little, then the premium version of the tool will make the cut. It facilitates endless conversions, so that you don’t experience any problems. 
+If you are a graphic designer, video editor, DJ or any other similar professional who has to constantly convert files from one format to another, then it is obvious that you need an [online file converter](https://mconverter.eu/) that ensures unlimited conversions. The free version of MConverter only allows 10 conversions per day. But, if that sounds too little, then the premium version of the tool will make the cut. It facilitates endless conversions, so that you don’t experience any problems. 
 
 ### Access to conversion history
 
@@ -72,7 +72,7 @@ You can use MConverter to convert files from various formats, such as the ones m
 
 ### MConverter: image converter
 
-The [online image converter] (https://mconverter.eu/converter/image/) encompasses formats like .ai, .webp, .heic, .avif, .cr2, and more.
+The [online image converter](https://mconverter.eu/converter/image/) encompasses formats like .ai, .webp, .heic, .avif, .cr2, and more.
 
 ### MConverter: video converter
 
@@ -80,7 +80,7 @@ The video converter includes formats such as, .avi, .amv, .mp4, .webm, and more.
 
 ### MConverter: audio converter
 
-The [online audio converter] (https://mconverter.eu/converter/audio/) includes formats like .mp3, .flac, .mid, and more.
+The [online audio converter](https://mconverter.eu/converter/audio/) includes formats like .mp3, .flac, .mid, and more.
 
 ### MConverter: subtitles converter
 
