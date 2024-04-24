@@ -1,7 +1,7 @@
 ---
 title: How to Convert .3GP to MP4? All About Converting from .3GP Format To Video
 description: Are you struggling with converting .3GP to MP4? No need for worries, as MConverter has got you covered with audio, image and video file conversion!
-image: convertfiles.jpg
+image: convertfiles.webp
 image_alt: convert 3gp to mp4 online
 date_added: 2024-04-23
 date_updated: 2024-04-23
