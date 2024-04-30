@@ -37,7 +37,7 @@ AAC files have improved sound quality compared to MP3 files, which is why AAC ex
 In other words, at the same bit rate, an MP3 file may sound less clear than an AAC file. However, MP3 still manages to provide decent sound playback quality, especially at high bit rates. But AAC files are much clearer and crisper than MP3 audio files.
 
 ## What are the advantages of AAC files?
-An[AAC audio file](https://mconverter.eu/converter/to/audio/) comes with the following benefits.
+An [AAC audio file](https://mconverter.eu/converter/to/audio/) comes with the following benefits.
 
 As mentioned above, AAC files provide better and crisper sound quality than MP3 files at the same bitrate.
 The AAC formats are great for streaming since they have smaller file sizes compared to other lossless codecs.
