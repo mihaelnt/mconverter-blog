@@ -1,8 +1,8 @@
 ---
 title: What is AAC audio? Everything About AAC File Format
 description: If you are wondering what AAC files are and their advantages and disadvantages, then this article is for you! Read more here!
-image: convertingfilesonline.jpg
-image_alt: understanding what is aac audit
+image: convertingfilesonline.webp
+image_alt: understanding what is aac audio
 date_added: 2024-04-30
 date_updated: 2024-04-30
 categories:
