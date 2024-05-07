@@ -63,6 +63,6 @@ Larger file sizes: JPG images are usually larger than AVIF files, which leads to
 Lower image quality: There may be a reduction in the image quality because of different AVIF to JPG conversion and compression algorithms – though not necessarily.
 
 ## Key Takeaways
-In conclusion, the article has attempted to explain what is an AVIF file, [how to convert AVIF to JPG ](https://mconverter.eu/), and how to open an AVIF file with ease using an online converter. We hope you will find a good balance between the positives and downsides and consider these factors to make more informed decisions.
+In conclusion, the article has attempted to explain what is an AVIF file, [how to convert AVIF to JPG](https://mconverter.eu/), and how to open an AVIF file with ease using an online converter. We hope you will find a good balance between the positives and downsides and consider these factors to make more informed decisions.
 
 
