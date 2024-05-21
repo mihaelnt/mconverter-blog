@@ -1,7 +1,7 @@
 ---
 title: Choosing The Right Video Format:What is 3GPP?
 description: Wondering how to convert 3GPP files? Explore what 3GPP file format is and how you can easily convert 3GPP files into other audio and video formats.
-image: video-converter.jpeg
+image: video-converter.webp
 image_alt: online video converter
 date_added: 2024-05-21
 date_updated: 2024-05-21

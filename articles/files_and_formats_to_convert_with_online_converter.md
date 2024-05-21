@@ -1,7 +1,7 @@
 ---
 title: What Files And Formats Can You Convert With An Online Converter?
 description: Discover all the different files and formats you can effortlessly convert with an online file converter. Explore the countless possibilities today. 
-image: online-converter-trends.jpg
+image: online-converter-trends.webp
 image_alt: online converter files and formats
 date_added: 2024-05-28
 date_updated: 2024-05-28

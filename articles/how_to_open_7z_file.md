@@ -1,7 +1,7 @@
 ---
 title: Extracting Compressed Files:How to Open a 7z File?
 description: Wondering what is the easiest way to convert BMP to PDF? Learn about the specifics of BMP file type and how to effortlessly convert BMP files with MConverter.
-image: archive-converter.jpg
+image: archive-converter.webp
 image_alt: online archive converter tool
 date_added: 2024-06-11
 date_updated: 2024-06-11

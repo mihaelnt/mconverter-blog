@@ -1,7 +1,7 @@
 ---
 title: How to Convert BMP to PDF:Steps and Benefits
 description: Wondering what is the easiest way to convert BMP to PDF? Learn about the specifics of BMP file type and how to effortlessly convert BMP files with MConverter.
-image: image-converter.jpg
+image: image-converter.webp
 image_alt: online image converter tool
 date_added: 2024-06-04
 date_updated: 2024-06-04
