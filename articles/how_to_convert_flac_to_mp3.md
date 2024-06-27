@@ -51,7 +51,7 @@ After a crisp overview of the difference between FLAC and MP3, let us check out 
 
 ## How to convert FLAC to MP3?
 
-You can convert FLAC to MP3 online with the help of a top-notch file converter like MConverter. All you have to do is drag and drop the FLAC file onto the platform and choose PDF as the culminating format. Then, tap on the ‘convert’ option and voila, it's done. Your file is now converted into MP3.
+You can convert FLAC to MP3 online with the help of a top-notch file converter like MConverter. All you have to do is drag and drop the FLAC file onto the platform and choose PDF as the target format. Then, tap on the ‘convert’ option and voila, it's done. Your file is now converted into MP3.
 
 ## Can iTunes play FLAC files?
 
