@@ -2,4 +2,4 @@
 heading: Ebook Conversion
 ---
 
-This is the category description for ebook conversions.
+Useful articles about converting electronic books, also known as ebooks.
