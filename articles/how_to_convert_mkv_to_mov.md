@@ -3,8 +3,8 @@ title: "How to Convert MKV to MOV in 3 Easy Ways: A Step-by-Step Guide"
 description: Need a fast way to convert an MKV file? Pick an MKV to MOV converter that suits your needs and follow these simple steps to get the job done.
 image: converting-mkv-on-laptop.webp
 image_alt: Converting MKV to MOV on a laptop
-date_added: 2024-11-06
-date_updated: 2024-11-06
+date_added: 2024-11-05
+date_updated: 2024-11-05
 categories:
   - video_conversion
 ---
