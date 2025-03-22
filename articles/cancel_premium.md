@@ -27,6 +27,6 @@ We are sorry to see you go. If you have any questions, we're always here to help
 
 You may have used a different email address when signing up. Please try logging in with any other email accounts you have and look for the **MANAGE SUBSCRIPTION** button.
 
-Also, make sure the charge on your bank statement includes "MCONVERTER" in the description — this means it's from our service. Note that charges through PayPal will be listed as "PAYPAL *PADDLE.NET" instead.
+Also, make sure the charge on your bank statement includes "MCONVERTER" in the description — this means it's from our service. Please note that charges made through PayPal will appear as "PAYPAL *PADDLE.NET" instead.
 
 If these tips don't help, [contact us](#legal) and mention your name, the date(s) you were charged, and the last 4 digits of your card. This way, we will be able to find and cancel your subscription.
