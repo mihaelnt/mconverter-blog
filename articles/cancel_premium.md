@@ -15,7 +15,8 @@ To stop your subscription from auto-renewing (i.e. to cancel it), follow these s
 1. Go to **[My Account](#account)** after signing in with the account you used to subscribe to MConverter Premium, Plus, or Pro.
     - On desktop, click on the account icon at the top right corner.
     - On mobile, tap on MENU > MY ACCOUNT or SIGN IN.
-2. Click on the **MANAGE SUBSCRIPTION** button. It may also be called **MANAGE PAYMENTS**.
+2. Click on the **MANAGE SUBSCRIPTION** button.
+    - It may also be called **MANAGE PAYMENTS**.
 3. Click on **Cancel subscription** in the popup window that opens.
     - If you've had multiple subscriptions, you may first need to click on the one which is currently active.
     - After cancelling, your paid plan benefits will remain active for the rest of the current billing period.
@@ -26,6 +27,6 @@ We are sorry to see you go. If you have any questions, we're always here to help
 
 You may have used a different email address when signing up. Please try logging in with any other email accounts you have and look for the **MANAGE SUBSCRIPTION** button.
 
-Also, make sure the charge on your bank statement includes MCONVERTER in the description — this means it's from our service.
+Also, make sure the charge on your bank statement includes "MCONVERTER" in the description — this means it's from our service. Note that charges through PayPal will be listed as "PAYPAL *PADDLE.NET" instead.
 
 If these tips don't help, [contact us](#legal) and mention your name, the date(s) you were charged, and the last 4 digits of your card. This way, we will be able to find and cancel your subscription.
