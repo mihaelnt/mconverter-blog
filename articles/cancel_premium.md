@@ -4,29 +4,28 @@ description: Simple guide for unsubscribing from MConverter Plus and Pro. You'll
 image: mconverter_premium.webp
 image_alt: MConverter Premium badge
 date_added: 2022-07-04
-date_updated: 2024-03-06
+date_updated: 2025-03-23
 categories:
   - help
 ---
 
-At MConverter, we have made it easy for you to cancel your subscription. We do **not** make it purposefully difficult by having you call a phone number and wait, **nor** do we charge cancellation fees.
+At MConverter, we have made it easy for you to cancel your subscription. We do **not** make it purposefully difficult by having you call a phone number and wait, **nor** do we charge early cancellation fees.
 
 To stop your subscription from auto-renewing (i.e. to cancel it), follow these steps:
-1. Sign in with the account you used to subscribe to MConverter Premium, Plus, or Pro.
+1. Go to **[My Account](#account)** after signing in with the account you used to subscribe to MConverter Premium, Plus, or Pro.
     - On desktop, click on the account icon at the top right corner.
-    - On mobile, tap on MENU > SIGN IN.
-2. Go to **[My Account](#account)** after signing in, or if you are already logged into your account.
-    - On desktop, click on the account icon at the top right corner.
-    - On mobile, tap on MENU > MY ACCOUNT.
-3. Click on the **MANAGE SUBSCRIPTION** button. It may also be called **MANAGE PAYMENTS**.
-4. Tap on **Cancel plan** in the popup window that opens. On the next page, confirm the cancellation by clicking on the blue **Cancel plan** button.
+    - On mobile, tap on MENU > MY ACCOUNT or SIGN IN.
+2. Click on the **MANAGE SUBSCRIPTION** button. It may also be called **MANAGE PAYMENTS**.
+3. Click on **Cancel subscription** in the popup window that opens.
+    - If you've had multiple subscriptions, you may first need to click on the one which is currently active.
     - After cancelling, your paid plan benefits will remain active for the rest of the current billing period.
-    - We'd appreciate it if you let us know why you're cancelling, though you are not required to specify a reason when unsubscribing.
 
-We are sorry to see you go. If you have any questions, we're here to help: [contact us](#legal).
+We are sorry to see you go. If you have any questions, we're always here to help: [contact us](#legal).
 
-## I can't see any active plans, but I'm still getting charged. Why?
+## I can't see any active subscriptions, but I'm still getting charged. Why?
 
-You have probably used a different email address when signing up. Please try logging in with any other email accounts you have and look for the **MANAGE SUBSCRIPTION** button.
+You may have used a different email address when signing up. Please try logging in with any other email accounts you have and look for the **MANAGE SUBSCRIPTION** button.
 
-If this doesn't help, [contact us](#legal) and mention your name, the date(s) you were charged, and the last 4 digits of your card. This way, we will be able to find and cancel your subscription.
+Also, make sure the charge on your bank statement includes MCONVERTER in the description — this means it's from our service.
+
+If these tips don't help, [contact us](#legal) and mention your name, the date(s) you were charged, and the last 4 digits of your card. This way, we will be able to find and cancel your subscription.
