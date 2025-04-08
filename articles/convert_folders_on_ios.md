@@ -1,8 +1,8 @@
 ---
 title: MConverter Now Lets You Convert Folders in iOS 18.4 Update
 description: Have you ever wondered how to convert folders directly on your iPhone? With the new iOS 18.4 update, MConverter introduces a convenient, time-saving feature allowing users to convert multiple files in a single tap.
-image: 
-image_alt: 
+image: ios_homescreen.webp
+image_alt: iOS homescreen
 date_added: 2025-04-08
 date_updated: 2025-04-08
 categories:
